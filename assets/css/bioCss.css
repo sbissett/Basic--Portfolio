@@ -1,0 +1,103 @@
+Body 
+{
+    width: 960;
+    background-image:url("assets/images/images/Sparkle");
+    padding:15%;
+
+    
+}
+ 
+
+.topNav
+{
+    left: Opx;
+    top: Opx;
+    background-color: #fff;
+    width: 100;
+    Float: right;
+    width:960;
+}
+
+header 
+{
+    color: teal;
+    Float: left;
+    margin-right: 85%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 960;
+    }
+ 
+
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 960; 
+      
+        
+    }
+    
+h2 
+{
+    border-bottom-style: solid;
+    border-color: lightgray;
+    color: teal;
+    width: 960;
+   
+}
+
+img 
+ {
+   
+    margin-right: 10px;
+    clear:both;
+   
+}
+
+
+
+.bio
+
+{ 
+    
+    Margin-left: 18%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+    text-align: justify;
+    letter-spacing: 4px;
+    Clear: both;
+    Background-color: lightskyblue;
+    -webkit-background-composite: border;
+    width: 960;
+    float: left;
+    Margin: 10%;
+    padding:10%;
+    
+ }
+
+ .line
+ {
+     Height:2px;
+     background-color: #000000;
+     width: 900px;
+     margin:auto;
+     
+ }
+
+ body {
+     background-color: lightgreen;
+
+ }
+
+ .bodyNav 
+ 
+ {
+     background-color: lightcyan
+
+ }
+
+.bodyForm 
+{
+    background-color: lightcyan;
+    padding: 5%;
+
+}    
+
